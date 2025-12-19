@@ -1,0 +1,7 @@
+{
+  "name": "ITC Factory Engagement & Behavioral Assessment",
+  "description": "A mobile-first, gamified survey platform for factory workers to assess engagement, behavioral traits, and situational judgment, providing real-time manpower planning insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
